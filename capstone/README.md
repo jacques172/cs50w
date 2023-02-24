@@ -1,4 +1,11 @@
 # Movieclub - A movie review aggregator.
+![jac](https://user-images.githubusercontent.com/96381612/221241572-4237d91a-4a6e-4c19-b204-8a6d6c2c9b29.png)
+
+
+
+
+![Screenshot 2023-02-24 195338](https://user-images.githubusercontent.com/96381612/221241649-7befc551-e609-4850-8dda-a128314c05a2.png)
+
 
 ## Stack:
 
